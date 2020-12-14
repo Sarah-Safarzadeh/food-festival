@@ -6,7 +6,6 @@ const path = require("path");
 const WebpackPwaManifest = require("webpack-pwa-manifest");
 
 
-
 const config = {
   entry: {
     app: './assets/js/script.js',
